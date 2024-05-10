@@ -10,14 +10,4 @@ Follow the instructions of fairseq=0.9.0 (https://github.com/pytorch/fairseq/blo
 - bart.large (https://dl.fbaipublicfiles.com/fairseq/models/bart.large.tar.gz)
 - CNN_DailyMail Datasets
 
-## Commands
-1. command_hie_bpe.sh       : Apply BPE to the data set
 
-2. command_hie_binarize.sh  : Binarize the data set
-
-3. command_fine-tuning.sh   : Fine-tuning
-
-4. inference_hie.py         : Inference
-
-5. command_hie_rouge.sh     : Calculate ROUGE score
-  
